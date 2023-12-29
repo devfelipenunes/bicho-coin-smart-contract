@@ -1,2 +1,2 @@
-0xd7bdD102F7E4b94D3eE6C89575a6fEf07847e87d
+0xD18e6eDea9F7eDad6ba88F67125DDd12Ade8E6f6
 # bicho-coin-smart-contract
